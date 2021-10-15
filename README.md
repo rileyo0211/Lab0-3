@@ -1,2 +1,2 @@
 # Lab0-3
-This is a project for fork practice
+This is a project used to practice fork
